@@ -1,5 +1,5 @@
-# groceries
-groceries total calculator
+<!DOCTYPE html>
+
 
 <!DOCTYPE html>
 <html>
@@ -51,6 +51,22 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
 <tr>
     <td> <select>
@@ -83,6 +99,22 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
 <tr>
     <td> <select>
@@ -115,8 +147,24 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
-    <tr>
+<tr>
     <td> <select>
      <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
      <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
@@ -147,8 +195,24 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
-    <tr>
+<tr>
     <td> <select>
      <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
      <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
@@ -179,8 +243,24 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
-    <tr>
+<tr>
     <td> <select>
      <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
      <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
@@ -211,200 +291,38 @@ table, th, td {
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
+   <td> <select>
+     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
+     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
+    </select>
+    </td> 
+    <td> Item: <div class="textbox" contenteditable="true">
+    text.
+  </div> </td>
+    <td> cost:  <div class="textbox" contenteditable="true">
+    Type.
+  </div>(amount)  <div class="textbox" contenteditable="true">
+    Type.
+  </div> (total) <div class="textbox" contenteditable="true">
+    Type.
+  </div> </td>
+   
 </tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
+
+<tr>
+
+ <td> 
+    <td> subtotal <div class="textbox" contenteditable="true">
     text.
   </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
+    <td> amount <div class="textbox" contenteditable="true">
     Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
+  </div> tax  <div class="textbox" contenteditable="true">
     Type.
   </div> (total) <div class="textbox" contenteditable="true">
     Type.
   </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> Item: <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> cost:  <div class="textbox" contenteditable="true">
-    Type.
-  </div>(amount)  <div class="textbox" contenteditable="true">
-    Type.
-  </div> (total) <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    <tr>
-    <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> add Total <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> subtotal  <div class="textbox" contenteditable="true">
-    Type.
-  </div> tax   <div class="textbox" contenteditable="true">
-    Type.
-  </div> TOTAL <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-  <td> <select>
-     <option value=""> 0 </option><option value="Veggies">Veggies</option><option value="Dairy">Dairy</option>
-     <option value="Meats">Meats</option><option value="Fruits">Fruits</option>
-    </select>
-    </td> 
-    <td> add Total <div class="textbox" contenteditable="true">
-    text.
-  </div> </td>
-    <td> subtotal  <div class="textbox" contenteditable="true">
-    Type.
-  </div> tax   <div class="textbox" contenteditable="true">
-    Type.
-  </div> TOTAL <div class="textbox" contenteditable="true">
-    Type.
-  </div> </td>
-</tr>
-    
+
     
 
 
@@ -517,3 +435,4 @@ table, th, td {
     </div>
 </body>
 </html>
+
